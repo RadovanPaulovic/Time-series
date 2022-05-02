@@ -1,2 +1,7 @@
-# Time-series
-Časť mojej diplomovej práce
+##EKONOMICKÉ ČASOVÉ RADY V PROGRAMOVACOM JAZYKU PYTHON
+#Diplomová práca
+
+
+PAULOVIČ, Radovan: Ekonomické časové rady v programovacom jazyku Python. – Ekonomická univerzita v Bratislave. Fakulta hospodárskej informatiky; katedra štatistiky. – Vedúci záverečnej práce: Ing. Silvia Komara, PhD. – Bratislava: FHI EU, 2022, 86 strán. 
+
+Naša záverečná práca je vypracovaná na tému Ekonomické časové rady v programovacom jazyku Python. Zameriava sa na predstavenie vybratých modelov ekonomických časových radov. Cieľom našej záverečnej práce je teoreticky a prakticky definovať moderný spôsob spracovania ekonomických časových radov, vysvetliť pojem časový rad, jeho praktické použitie na riešenie štatistických príkladov v programovacom jazyku Python. Našu pozornosť venujeme programovaciemu jazyku Python, na otázky spojené s vytváraním modelov ekonomických časových radov a tiež príkladu alebo príručky, ktorý krok za krokom vie pomôcť pochopiť uvedenú problematiku. Python je moderný programovací jazyk, ktorého popularita stále rastie. Každý študent informačného manažmentu by mal mať aspoň základnú znalosť s prácou s ekonomickými časovými radmi v tomto programovacom jazyku. Systémy na správu časových radov majú uplatnenie aj vo vede a výskume, a preto v našej záverečnej práci chceme ukázať prácu s ekonomickými časovými radmi, zvládnuť základné teoretické a praktické pochopenie modelov ekonomických časových radov a vytvoriť príručku ako postupovať pri analýze ekonomických časových radov v programovacom jazyku Python.
