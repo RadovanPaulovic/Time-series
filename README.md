@@ -1,6 +1,5 @@
-##EKONOMICKÉ ČASOVÉ RADY V PROGRAMOVACOM JAZYKU PYTHON
-#Diplomová práca
-
+**EKONOMICKÉ ČASOVÉ RADY V PROGRAMOVACOM JAZYKU PYTHON
+Diplomová práca**
 
 PAULOVIČ, Radovan: Ekonomické časové rady v programovacom jazyku Python. – Ekonomická univerzita v Bratislave. Fakulta hospodárskej informatiky; katedra štatistiky. – Vedúci záverečnej práce: Ing. Silvia Komara, PhD. – Bratislava: FHI EU, 2022, 86 strán. 
 
